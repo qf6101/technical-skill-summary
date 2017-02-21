@@ -1,4 +1,4 @@
-# My Skills Summary
+# My Technical Summary
 
 * [install gpu machine](install-gpu-machine.md)
 
