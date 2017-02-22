@@ -1,20 +1,21 @@
-Execute the following commands:
+### Execute the following commands:
 
 ./dev/change_scala_version.sh 2.11
 mvn clean package -Pspark-2.0 -Phadoop-2.4 -Ppyspark -Psparkr -Pscala-2.11 -DskipTests
 
-References:
+### References:
 
 https://github.com/apache/zeppelin#build
 https://zeppelin.apache.org/docs/0.6.0/install/install.html
 
-Notes:
+### Notes:
 
 1. It will take a long time to download the necessary packages
 2. Use maven 3.3.9 or higher version
 3. After building, update the zeppelin jackson version to spark2.0.0's dependency version
 4. Set zeppelin_env.sh in advance as follows.
 
+```
 #!/bin/bash
 #
 # Licensed to the Apache Software Foundation (ASF) under one or more
@@ -98,3 +99,4 @@ export ZEPPELIN_SPARK_USEHIVECONTEXT=false  # Use HiveContext instead of SQLCont
 # export ZEPPELINHUB_API_ADDRESS  # Refers to the address of the ZeppelinHub service in use
 # export ZEPPELINHUB_API_TOKEN   # Refers to the Zeppelin instance token of the user
 # export ZEPPELINHUB_USER_KEY   # Optional, when using Zeppelin with authentication.
+```
