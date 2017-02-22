@@ -1,5 +1,6 @@
-set parameter 'latex_elments' in conf.py
+### set parameter 'latex_elments' in conf.py
 
+```
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
@@ -15,3 +16,4 @@ latex_elements = {
 \\AtEndDocument{\\end{CJK}}
 '''
 }
+```
