@@ -24,7 +24,7 @@
 
 ### python regex to match http urls 
 
-
+```
 regex = re.compile(
     r'^(?:http|ftp)s?://' # http:// or https://
     r'(?:(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+(?:[A-Z]{2,6}\.?|[A-Z0-9-]{2,}\.?)|' # domain...
@@ -33,5 +33,5 @@ regex = re.compile(
     r'\[?[A-F0-9]*:[A-F0-9:]+\]?)' # ...or ipv6
     r'(?::\d+)?' # optional port
     r'(?:/?|[/?]\S+)$', re.IGNORECASE)
- 
+ ```
 (from: http://codereview.stackexchange.com/questions/19663/http-url-validating)
