@@ -6,7 +6,7 @@
 
 * https://github.com/yu-iskw/spark-dataframe-introduction/blob/master/doc/dataframe-introduction.md
 
-### notes for building spark
+### notes for building spark in idea
 
 * 将IDEA的setting中的maven修改为3.3.9
 
