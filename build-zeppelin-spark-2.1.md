@@ -7,6 +7,7 @@ mvn clean package -Pspark-2.1 -Phadoop-2.4 -Ppyspark -Psparkr -Pscala-2.11 -Dski
 ### References:
 
 https://github.com/apache/zeppelin#build
+
 https://zeppelin.apache.org/docs/0.7.0/install/install.html
 
 ### Notes:
