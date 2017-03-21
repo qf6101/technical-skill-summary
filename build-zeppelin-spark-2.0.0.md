@@ -1,12 +1,13 @@
 ### Execute the following commands:
 
 ./dev/change_scala_version.sh 2.11
-mvn clean package -Pspark-2.0 -Phadoop-2.4 -Ppyspark -Psparkr -Pscala-2.11 -DskipTests
+
+mvn clean package -Pspark-2.1 -Phadoop-2.4 -Ppyspark -Psparkr -Pscala-2.11 -DskipTests
 
 ### References:
 
 https://github.com/apache/zeppelin#build
-https://zeppelin.apache.org/docs/0.6.0/install/install.html
+https://zeppelin.apache.org/docs/0.7.0/install/install.html
 
 ### Notes:
 
