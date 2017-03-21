@@ -64,8 +64,8 @@ export ZEPPELIN_PORT="10005"
 ## Use provided spark installation ##
 ## defining SPARK_HOME makes Zeppelin run spark interpreter process using spark-submit
 ##
-export HADOOP_HOME="/home/ad/hadoop-XS/"
-export SPARK_HOME="/home/ad/spark-2.0.0-xiaoshan"                             # (required) When it is defined, load it instead of Zeppelin embedded Spark libraries
+export HADOOP_HOME="/home/ad/hadoop/"
+export SPARK_HOME="/home/ad/spark-2.0.0"                             # (required) When it is defined, load it instead of Zeppelin embedded Spark libraries
 # export SPARK_SUBMIT_OPTIONS                   # (optional) extra options to pass to spark submit. eg) "--driver-memory 512M --executor-memory 1G".
 # export SPARK_APP_NAME                         # (optional) The name of spark application.
 export SPARK_SUBMIT_OPTIONS="--executor-memory 4G --num-executors 5 --jars ${HADOOP_HOME}/lib/native/hadoop-lzo-0.4.20.jar"
