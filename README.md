@@ -11,3 +11,11 @@
 * [tools summary](tools-summary.md)
 
 * [spark-discussions](spark-discussions.md)
+
+# My Tutorials
+
+* [Click-Through Rate Prediction](Introduction%20to%20pCTR.pdf)
+
+* [PGM and Gibbs Sampling](PGM%20and%20Gibbs%20Sampling.pdf)
+
+* [Spatial Co-location Pattern Discovery](Colocation%20Pattern%20Mining.pdf)
