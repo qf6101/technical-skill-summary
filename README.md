@@ -19,3 +19,5 @@
 * [PGM and Gibbs Sampling](PGM%20and%20Gibbs%20Sampling.pdf)
 
 * [Spatial Co-location Pattern Discovery](Colocation%20Pattern%20Mining.pdf)
+
+* [Calculus Notes (in Chinese)](calculus_notes)
