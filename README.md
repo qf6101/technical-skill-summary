@@ -4,13 +4,15 @@
 
 * [install opencv3](install-opencv3.md)
 
+* [install vowpalwabbit prerequisites](install-vowpalwabbit-prerequisites.md)
+
 * [build zeppelin spark-2.1](build-zeppelin-spark-2.1.md)
 
 * [make sphinx latexpdf](make-sphinx-latexpdf.md)
 
 * [tools summary](tools-summary.md)
 
-* [spark-discussions](spark-discussions.md)
+* [spark discussions](spark-discussions.md)
 
 # My Tutorials
 
