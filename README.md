@@ -4,7 +4,7 @@
 
 * [install opencv3](install-opencv3.md)
 
-* [install vowpalwabbit prerequisites](install-vowpalwabbit-prerequisites.md)
+* [install vowpal wabbit prerequisites](install-vowpalwabbit-prerequisites.md)
 
 * [build zeppelin spark-2.1](build-zeppelin-spark-2.1.md)
 
