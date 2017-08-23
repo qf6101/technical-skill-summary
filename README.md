@@ -25,3 +25,7 @@
 * [Calculus Notes (in Chinese)](calculus_notes)
 
 * [My Technical Blog](http://qf6101.github.io/)
+
+# My Publications
+
+* [publications on google scholar](https://scholar.google.com/citations?user=5KurcogAAAAJ&hl=en)
