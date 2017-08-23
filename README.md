@@ -23,3 +23,5 @@
 * [Spatial Co-location Pattern Discovery](Colocation%20Pattern%20Mining.pdf)
 
 * [Calculus Notes (in Chinese)](calculus_notes)
+
+* [My Technical Blog](http://qf6101.github.io/)
