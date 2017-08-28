@@ -94,3 +94,9 @@ flags=-D_FORCE_INLINES
 ```
 pip install keras
 ```
+
+# Install Tensorlayer
+
+```
+export QT_QPA_PLATFORM=offscreen
+```
