@@ -100,3 +100,15 @@ pip install keras
 ```
 export QT_QPA_PLATFORM=offscreen
 ```
+
+# Install Caffe2
+
+```
+conda create -n caffe2 python=2.7 anaconda
+source activate caffe2
+mkdir build && cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release -DCMAKE_INSTALL_PREFIX=build/deploy
+env LD_LIBRARY_PATH="/usr/local/cuda-8.0/lib64:/usr/local/cuda-8.0/lib64" make -j 30
+export LD_LIBRARY_PATH="build/deploy/lib:$LD_LIBRARY_PATH"
+cp -r build/deploy/caffe2 anaconda3/envs/caffe2/lib/python2.7/site-packages/
+```
