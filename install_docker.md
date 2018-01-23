@@ -1,6 +1,6 @@
 * Problem:
 
-The following packages have unmet dependencies: docker-engine : Depends: libsystemd-journal0 (>= 201) but it is not installable
+Depends: libsystemd-journal0 (>= 201) but it is not installable
 
 * Solution:
 
