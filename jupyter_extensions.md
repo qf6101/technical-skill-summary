@@ -8,6 +8,6 @@ Note: maybe conflict with conda extension: https://github.com/Anaconda-Platform/
 
 https://github.com/Cadair/jupyter_environment_kernels
 
-3. Install ipykernel
+3. Install ipykernel for every environment
 
 conda install ipykernel
