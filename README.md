@@ -6,6 +6,8 @@
 
 * [install vowpal wabbit prerequisites](install-vowpalwabbit-prerequisites.md)
 
+* [install jupyter extensions](install-jupyter-extensions.md)
+
 * [build zeppelin spark-2.1](build-zeppelin-spark-2.1.md)
 
 * [make sphinx latexpdf](make-sphinx-latexpdf.md)
