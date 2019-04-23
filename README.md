@@ -30,6 +30,8 @@
 
 * [My Technical Blog](http://qf6101.github.io/)
 
+* [High Performance CTR Pipeline Design (in Chinese)](高性能特征工程Pipeline设计要点.pdf)
+
 # My Publications
 
 * [publications on google scholar](https://scholar.google.com/citations?user=5KurcogAAAAJ&hl=en)
