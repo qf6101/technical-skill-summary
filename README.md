@@ -22,6 +22,8 @@
 
 * [Click-Through Rate Prediction](Introduction%20to%20pCTR.pdf)
 
+* [High Performance CTR Pipeline Design (in Chinese)](高性能特征工程Pipeline设计要点.pdf)
+
 * [PGM and Gibbs Sampling](PGM%20and%20Gibbs%20Sampling.pdf)
 
 * [Spatial Co-location Pattern Discovery](Colocation%20Pattern%20Mining.pdf)
@@ -29,8 +31,6 @@
 * [Calculus Notes (in Chinese)](calculus_notes)
 
 * [My Technical Blog](http://qf6101.github.io/)
-
-* [High Performance CTR Pipeline Design (in Chinese)](高性能特征工程Pipeline设计要点.pdf)
 
 # My Publications
 
