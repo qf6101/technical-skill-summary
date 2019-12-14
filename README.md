@@ -28,6 +28,8 @@
 
 * [Spatial Co-location Pattern Discovery](Colocation%20Pattern%20Mining.pdf)
 
+* [How to write a patent innovation report (in Chinese)](如何撰写专利技术交底书.pdf)
+
 * [Calculus Notes (in Chinese)](calculus_notes)
 
 * [My Technical Blog](http://qf6101.github.io/)
