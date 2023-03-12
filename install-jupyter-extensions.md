@@ -11,3 +11,7 @@ https://github.com/Cadair/jupyter_environment_kernels
 ### Install ipykernel for every environment
 
 conda install ipykernel
+
+## Tab does not work for prompting
+
+pip install --upgrade jedi==0.17.2 // Use this specified jedi version
