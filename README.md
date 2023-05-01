@@ -40,7 +40,7 @@
 
 * [publications on google scholar](https://scholar.google.com/citations?user=5KurcogAAAAJ&hl=en)
 
-# Related Technical Reports
+# Related News
 
 * [WWW 2023 | 系统性照片源头可信的证明图式](https://mp.weixin.qq.com/s/fLJ5qNHGowrUYXksixOKbg)
 
