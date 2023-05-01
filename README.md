@@ -42,9 +42,9 @@
 
 # Related Technical Reports
 
-* [WWW2023 | 系统性照片源头可信的证明图式](https://mp.weixin.qq.com/s/fLJ5qNHGowrUYXksixOKbg)
+* [WWW 2023 | 系统性照片源头可信的证明图式](https://mp.weixin.qq.com/s/fLJ5qNHGowrUYXksixOKbg)
 
-* [AAAI2023 | 版权科技刷新视频拷贝定位任务最佳效果](https://mp.weixin.qq.com/s/xJmzv39Z8ln4G3wu5Br9_w)
+* [AAAI 2023 | 版权科技刷新视频拷贝定位任务最佳效果](https://mp.weixin.qq.com/s/xJmzv39Z8ln4G3wu5Br9_w)
 
 * [CVPR 2022 | 16万视频对、28万对片段，蚂蚁开源视频侵权检测超大数据集](https://mp.weixin.qq.com/s/6v1QMi1ZYA84FNufTUdycg)
 
