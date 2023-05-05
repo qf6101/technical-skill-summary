@@ -49,3 +49,5 @@
 * [CVPR 2022 | 16万视频对、28万对片段，蚂蚁开源视频侵权检测超大数据集](https://mp.weixin.qq.com/s/6v1QMi1ZYA84FNufTUdycg)
 
 * [NVIDIA 携手蚂蚁链实现 INT8 QAT 技术加速 AI 推理，打造新一代版权保护平台](https://blogs.nvidia.cn/2022/09/09/nvidia-and-ant-chain-implement-int8-qat-technology-to-accelerate-ai-inference-and-create-a-new-generation-of-copyright-protection-platform/)
+
+* [蚂蚁数科开发者大会2023 | InfoQ采访 | 微观纹理验真技术&二维码防伪标签 3:07](https://www.infoq.cn/video/C2YKdFJ2qQIxtEp6yzXV)
