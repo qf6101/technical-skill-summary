@@ -52,4 +52,4 @@
 
 * [NVIDIA 携手蚂蚁链实现 INT8 QAT 技术加速 AI 推理，打造新一代版权保护平台](https://blogs.nvidia.cn/2022/09/09/nvidia-and-ant-chain-implement-int8-qat-technology-to-accelerate-ai-inference-and-create-a-new-generation-of-copyright-protection-platform/)
 
-*[云栖大会 2023 ｜ 产业数据的源头可信技术及应用](https://mp.weixin.qq.com/s/LY_6xBLp0rwQtVlSga2g-w)
+* [云栖大会 2023 ｜ 产业数据的源头可信技术及应用](https://mp.weixin.qq.com/s/LY_6xBLp0rwQtVlSga2g-w)
