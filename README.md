@@ -42,6 +42,8 @@
 
 # Related News
 
+* [云栖大会 2023 ｜ 产业数据的源头可信技术及应用](https://mp.weixin.qq.com/s/LY_6xBLp0rwQtVlSga2g-w)
+
 * [蚂蚁数科开发者大会2023 | InfoQ采访 | 微观纹理验真技术&二维码防伪标签 3:07](https://www.infoq.cn/video/C2YKdFJ2qQIxtEp6yzXV)
 
 * [WWW 2023 | 系统性照片源头可信的证明图式](https://mp.weixin.qq.com/s/fLJ5qNHGowrUYXksixOKbg)
@@ -52,4 +54,3 @@
 
 * [NVIDIA 携手蚂蚁链实现 INT8 QAT 技术加速 AI 推理，打造新一代版权保护平台](https://blogs.nvidia.cn/2022/09/09/nvidia-and-ant-chain-implement-int8-qat-technology-to-accelerate-ai-inference-and-create-a-new-generation-of-copyright-protection-platform/)
 
-* [云栖大会 2023 ｜ 产业数据的源头可信技术及应用](https://mp.weixin.qq.com/s/LY_6xBLp0rwQtVlSga2g-w)
