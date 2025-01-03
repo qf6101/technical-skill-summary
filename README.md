@@ -42,6 +42,8 @@
 
 # Related News
 
+* [蚂蚁区块链科技“蚂蚁链防伪溯源标识”通过防伪技术评审](http://www.ctaac.org.cn/article/content/view?id=3442)
+
 * [云栖大会 2023 | 产业数据的源头可信技术及应用](https://mp.weixin.qq.com/s/LY_6xBLp0rwQtVlSga2g-w) | [直播回放](https://yunqi.aliyun.com/2023/subforum/ZZS-MYY-02?spm=5176.28527762.0.0.28fb7759gw0cNB)
 
 * [蚂蚁数科开发者大会2023 | InfoQ采访 | 微观纹理验真技术&二维码防伪标签 3:07](https://www.infoq.cn/video/C2YKdFJ2qQIxtEp6yzXV)
